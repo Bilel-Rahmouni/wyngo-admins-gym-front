@@ -1,0 +1,13 @@
+/* CalendarPage.css */
+.container {
+  max-width: 1500px; /* Increase the max-width for a wider calendar */
+  margin: 0 auto;
+}
+
+.rbc-time-view {
+  min-height: 100px; /* Increase the height of the time slots */
+}
+
+.rbc-time-header-content {
+  height: 20px; /* Increase the height of the time header */
+}
